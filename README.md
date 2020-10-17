@@ -25,6 +25,7 @@ A course in software design using design patterns as a tool for communicating so
 - Factory Method
 - Prototype
 - Singleton
+- Object Pool/Cache
 ### Structural Patterns
 - Adapter
 - Bridge
@@ -33,6 +34,7 @@ A course in software design using design patterns as a tool for communicating so
 - Facade
 - Flyweight
 - Proxy
+- Data Access Object
 ### Behavioral Patterns
 - Chain of Responsibility
 - Command
