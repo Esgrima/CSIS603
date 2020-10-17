@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4852714c-8b7f-4028-84b5-a88743cbad49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XX2nePGGXEpLEcnijkSSJElLuv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\My Drive\__CSIS603\Homework\HW2\Dart\LinkedListIterator\test\edu.citadel.util" />
+      <recent name="G:\My Drive\__CSIS603\Homework\HW2\Dart\LinkedListIterator\lib\edu.citadel.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.main.dart">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Empty List in LinkedList_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/edu.citadel.util/LinkedList_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="Empty List" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Filled List in LinkedList_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/edu.citadel.util/LinkedList_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="Filled List" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Iterator in LinkedList_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/edu.citadel.util/LinkedList_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="Iterator" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in LinkedList_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/edu.citadel.util/LinkedList_test.dart" />
+      <option name="testName" value="LinkedList_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="to String in LinkedList_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/edu.citadel.util/LinkedList_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="to String" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4852714c-8b7f-4028-84b5-a88743cbad49" name="Default Changelist" comment="" />
+      <created>1581178286419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581178286419</updated>
+      <workItem from="1581178292213" duration="36895000" />
+      <workItem from="1581529799489" duration="7522000" />
+      <workItem from="1581808452145" duration="784000" />
+      <workItem from="1582153124341" duration="50000" />
+      <workItem from="1583803311340" duration="850000" />
+      <workItem from="1583805733006" duration="817000" />
+      <workItem from="1583808057341" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583806264867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1583806264867" />
+    <state x="740" y="182" key="FileChooserDialogImpl" timestamp="1583808201866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="182" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1583808201866" />
+    <state x="240" y="146" key="new project wizard" timestamp="1583808339129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="240" y="146" key="new project wizard/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1583808339129" />
+  </component>
+</project>
